@@ -1,0 +1,39 @@
+🧠 LeetCode Solutions
+
+Automatically synced from LeetCode via a custom Chrome Extension.
+
+📂 Repository Structure
+Solutions are automatically organized by difficulty every time I hit Accepted on LeetCode.
+
+
+surya-leetcode-solutions/
+├── Easy/
+│   └── two-sum/
+│       └── solution.py
+├── Medium/
+│   └── add-two-numbers/
+│       └── solution.js
+└── Hard/
+    └── median-of-two-sorted-arrays/
+        └── solution.cpp
+⚙️ How It Works
+I built a custom Chrome Extension that:
+
+🔍 Detects when LeetCode navigates to a submission result page.
+✅ Verifies the submission is Accepted using LeetCode's internal GraphQL API.
+📦 Fetches the full solution code, problem title, and difficulty from the API.
+🚀 Pushes the code to this repository under the correct Easy/, Medium/, or Hard/ folder.
+📝 Updates this README.md automatically with a new entry in the table below.
+📊 Progress Tracker
+This table is auto-updated by the extension after every accepted submission.
+
+#	Difficulty	Problem	Solution	Language
+—	—	No solutions yet. Submit your first!	—	—
+🚀 Getting Started (Extension Setup)
+Want to replicate this setup? Here's how:
+
+Clone the extension from its source repository.
+Go to chrome://extensions/ and enable Developer Mode.
+Click Load Unpacked and select the extension folder.
+Click the extension icon, enter your GitHub PAT (repo scope required) and your repository name.
+Click Save — you're done! Start solving problems.
