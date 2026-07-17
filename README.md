@@ -37,3 +37,10 @@ Go to chrome://extensions/ and enable Developer Mode.
 Click Load Unpacked and select the extension folder.
 Click the extension icon, enter your GitHub PAT (repo scope required) and your repository name.
 Click Save — you're done! Start solving problems.
+
+
+## 📊 Solved Problems
+
+| Difficulty | Problem | Solution |
+|:---:|---|---|
+| 🟢 Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [View Solution](Easy/binary-search/solution.cpp) |
