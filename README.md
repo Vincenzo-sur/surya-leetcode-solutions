@@ -47,3 +47,4 @@ Click Save — you're done! Start solving problems.
 | Difficulty | Problem | Solution |
 |:---:|---|---|
 | 🟢 Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [View Solution](Easy/binary-search/cpp/solution.cpp) |
+| 🟡 Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [View Solution](Medium/search-in-rotated-sorted-array/solution.cpp) |
