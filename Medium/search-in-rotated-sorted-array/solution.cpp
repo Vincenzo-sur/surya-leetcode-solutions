@@ -10,7 +10,7 @@ public:
             if (nums[mid] == target)
                 return mid;
 
-            // Left half is sorted
+            
             if (nums[lo] <= nums[mid]) {
 
                 if (nums[lo] <= target && target < nums[mid])
@@ -19,7 +19,7 @@ public:
                     lo = mid + 1;
             }
 
-            // Right half is sorted
+            
             else {
 
                 if (nums[mid] < target && target <= nums[hi])
