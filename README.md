@@ -9,13 +9,16 @@ Solutions are automatically organized by difficulty every time I hit Accepted on
 surya-leetcode-solutions/
 ├── Easy/
 │   └── two-sum/
-│       └── solution.py
+│       └── python/
+│           └── solution.py
 ├── Medium/
 │   └── add-two-numbers/
-│       └── solution.js
+│       └── javascript/
+│           └── solution.js
 └── Hard/
     └── median-of-two-sorted-arrays/
-        └── solution.cpp
+        └── cpp/
+            └── solution.cpp
 ⚙️ How It Works
 I built a custom Chrome Extension that:
 
@@ -43,6 +46,6 @@ Click Save — you're done! Start solving problems.
 
 | Difficulty | Problem | Solution |
 |:---:|---|---|
-| 🟢 Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [View Solution](Easy/binary-search/solution.cpp) |
+| 🟢 Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [View Solution](Easy/binary-search/cpp/solution.cpp) |
 | 🟡 Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [View Solution](Medium/search-in-rotated-sorted-array/solution.cpp) |
 | 🟡 Medium | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [View Solution](Medium/search-in-rotated-sorted-array-ii/solution.cpp) |
