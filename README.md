@@ -50,3 +50,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [View Solution](Medium/search-in-rotated-sorted-array/solution.cpp) |
 | 🟡 Medium | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [View Solution](Medium/search-in-rotated-sorted-array-ii/solution.cpp) |
 | 🟡 Medium | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [View Solution](Medium/find-minimum-in-rotated-sorted-array/solution.cpp) |
+| 🟡 Medium | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [View Solution](Medium/single-element-in-a-sorted-array/solution.cpp) |
