@@ -54,3 +54,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [View Solution](Medium/find-first-and-last-position-of-element-in-sorted-array/solution.cpp) |
 | 🟡 Medium | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [View Solution](Medium/find-peak-element/solution.cpp) |
 | 🟡 Medium | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [View Solution](Medium/koko-eating-bananas/solution.cpp) |
+| 🟡 Medium | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [View Solution](Medium/minimum-number-of-days-to-make-m-bouquets/solution.cpp) |
