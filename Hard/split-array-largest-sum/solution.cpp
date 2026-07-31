@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int cntStudents(vector<int>& nums,int pages){
-        int stu = 1, pagesStudent = 0;
+    int cnt(vector<int>& nums,int msum){
+        int ls = 1, csum = 0;
         for(int i = 0; i < nums.size(); i++){
-            if(pagesStudent + nums[i] <= pages){
-                pagesStudent += nums[i];
+            if(csum + nums[i] <= msum){
+                csum += nums[i];
             }
             else{
-                stu++;
-                pagesStudent = nums[i];
+                ls++;
+                csum = nums[i];
             }
         }
-        return stu;
+        return ls;
     }
     int splitArray(vector<int>& nums, int k) {
         if( k > nums.size()) return -1;
@@ -19,7 +19,7 @@ public:
         int hi = accumulate(nums.begin(),nums.end(), 0);
         while(lo <= hi){
             int mid = (lo + hi)/2;
-            int stu = cntStudents(nums, mid);
+            int stu = cnt(nums, mid);
             if(stu > k) lo = mid + 1;
             else hi = mid - 1;
         }
