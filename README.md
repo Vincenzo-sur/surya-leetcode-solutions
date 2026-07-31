@@ -58,3 +58,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [View Solution](Medium/find-the-smallest-divisor-given-a-threshold/solution.cpp) |
 | 🟡 Medium | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [View Solution](Medium/capacity-to-ship-packages-within-d-days/solution.cpp) |
 | 🟢 Easy | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [View Solution](Easy/kth-missing-positive-number/solution.cpp) |
+| 🔴 Hard | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [View Solution](Hard/split-array-largest-sum/solution.cpp) |
