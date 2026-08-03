@@ -61,3 +61,4 @@ Click Save — you're done! Start solving problems.
 | 🔴 Hard | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [View Solution](Hard/split-array-largest-sum/solution.cpp) |
 | 🔴 Hard | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [View Solution](Hard/median-of-two-sorted-arrays/solution.cpp) |
 | 🟡 Medium | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [View Solution](Medium/string-to-integer-atoi/solution.cpp) |
+| 🟢 Easy | [Add Binary](https://leetcode.com/problems/add-binary/) | [View Solution](Easy/add-binary/solution.cpp) |
