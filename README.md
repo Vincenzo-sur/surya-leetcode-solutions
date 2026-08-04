@@ -62,3 +62,4 @@ Click Save — you're done! Start solving problems.
 | 🔴 Hard | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [View Solution](Hard/median-of-two-sorted-arrays/solution.cpp) |
 | 🟡 Medium | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [View Solution](Medium/string-to-integer-atoi/solution.cpp) |
 | 🟢 Easy | [Add Binary](https://leetcode.com/problems/add-binary/) | [View Solution](Easy/add-binary/solution.cpp) |
+| 🟡 Medium | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [View Solution](Medium/search-a-2d-matrix/solution.cpp) |
