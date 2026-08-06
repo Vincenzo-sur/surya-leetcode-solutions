@@ -64,3 +64,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Add Binary](https://leetcode.com/problems/add-binary/) | [View Solution](Easy/add-binary/solution.cpp) |
 | 🟡 Medium | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [View Solution](Medium/search-a-2d-matrix/solution.cpp) |
 | 🟡 Medium | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [View Solution](Medium/search-a-2d-matrix-ii/solution.cpp) |
+| 🟡 Medium | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [View Solution](Medium/find-a-peak-element-ii/solution.cpp) |
