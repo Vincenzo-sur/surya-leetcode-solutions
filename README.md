@@ -66,3 +66,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [View Solution](Medium/search-a-2d-matrix-ii/solution.cpp) |
 | 🟡 Medium | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [View Solution](Medium/find-a-peak-element-ii/solution.cpp) |
 | 🟢 Easy | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [View Solution](Easy/remove-duplicates-from-sorted-array/solution.cpp) |
+| 🟢 Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Solution](Easy/two-sum/solution.cpp) |
