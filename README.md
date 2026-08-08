@@ -68,3 +68,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [View Solution](Easy/remove-duplicates-from-sorted-array/solution.cpp) |
 | 🟢 Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Solution](Easy/two-sum/solution.cpp) |
 | 🟡 Medium | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [View Solution](Medium/sort-colors/solution.cpp) |
+| 🟢 Easy | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [View Solution](Easy/palindrome-number/solution.py) |
