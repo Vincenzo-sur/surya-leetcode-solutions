@@ -67,3 +67,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [View Solution](Medium/find-a-peak-element-ii/solution.cpp) |
 | 🟢 Easy | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [View Solution](Easy/remove-duplicates-from-sorted-array/solution.cpp) |
 | 🟢 Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Solution](Easy/two-sum/solution.cpp) |
+| 🟡 Medium | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [View Solution](Medium/sort-colors/solution.cpp) |
