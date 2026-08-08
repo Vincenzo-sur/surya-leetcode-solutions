@@ -69,3 +69,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Solution](Easy/two-sum/solution.cpp) |
 | 🟡 Medium | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [View Solution](Medium/sort-colors/solution.cpp) |
 | 🟢 Easy | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [View Solution](Easy/palindrome-number/solution.py) |
+| 🟢 Easy | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [View Solution](Easy/roman-to-integer/solution.cpp) |
