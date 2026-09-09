@@ -73,3 +73,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [View Solution](Medium/integer-to-roman/solution.cpp) |
 | 🟡 Medium | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [View Solution](Medium/reverse-words-in-a-string/solution.cpp) |
 | 🟢 Easy | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [View Solution](Easy/largest-odd-number-in-string/solution.cpp) |
+| 🟢 Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [View Solution](Easy/longest-common-prefix/solution.cpp) |
