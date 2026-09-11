@@ -75,3 +75,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [View Solution](Easy/largest-odd-number-in-string/solution.cpp) |
 | 🟢 Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [View Solution](Easy/longest-common-prefix/solution.cpp) |
 | 🟢 Easy | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [View Solution](Easy/isomorphic-strings/solution.cpp) |
+| 🟢 Easy | [Rotate String](https://leetcode.com/problems/rotate-string/) | [View Solution](Easy/rotate-string/solution.cpp) |
