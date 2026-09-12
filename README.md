@@ -76,3 +76,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [View Solution](Easy/longest-common-prefix/solution.cpp) |
 | 🟢 Easy | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [View Solution](Easy/isomorphic-strings/solution.cpp) |
 | 🟢 Easy | [Rotate String](https://leetcode.com/problems/rotate-string/) | [View Solution](Easy/rotate-string/solution.cpp) |
+| 🟢 Easy | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [View Solution](Easy/valid-anagram/solution.cpp) |
