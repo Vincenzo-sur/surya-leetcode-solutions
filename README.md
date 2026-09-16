@@ -78,3 +78,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Rotate String](https://leetcode.com/problems/rotate-string/) | [View Solution](Easy/rotate-string/solution.cpp) |
 | 🟢 Easy | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [View Solution](Easy/valid-anagram/solution.cpp) |
 | 🟡 Medium | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [View Solution](Medium/sort-characters-by-frequency/solution.cpp) |
+| 🟢 Easy | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [View Solution](Easy/maximum-nesting-depth-of-the-parentheses/solution.cpp) |
