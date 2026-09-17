@@ -79,3 +79,4 @@ Click Save — you're done! Start solving problems.
 | 🟢 Easy | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [View Solution](Easy/valid-anagram/solution.cpp) |
 | 🟡 Medium | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [View Solution](Medium/sort-characters-by-frequency/solution.cpp) |
 | 🟢 Easy | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [View Solution](Easy/maximum-nesting-depth-of-the-parentheses/solution.cpp) |
+| 🟡 Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [View Solution](Medium/longest-palindromic-substring/solution.cpp) |
