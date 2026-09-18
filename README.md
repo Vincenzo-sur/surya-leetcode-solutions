@@ -80,3 +80,4 @@ Click Save — you're done! Start solving problems.
 | 🟡 Medium | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [View Solution](Medium/sort-characters-by-frequency/solution.cpp) |
 | 🟢 Easy | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [View Solution](Easy/maximum-nesting-depth-of-the-parentheses/solution.cpp) |
 | 🟡 Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [View Solution](Medium/longest-palindromic-substring/solution.cpp) |
+| 🟡 Medium | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [View Solution](Medium/sum-of-beauty-of-all-substrings/solution.cpp) |
